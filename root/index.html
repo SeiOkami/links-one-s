@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru" data-bs-theme="one-s">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1С в Telegram</title>
+    <link rel="stylesheet" href="styles/main.css" />
+    <script defer src="scripts/chanels.js"></script>
+    <script defer src="scripts/links.js"></script>
+    
+</head>
+
+<body>
+
+    <header>
+        <img class="header-left-img" src="img/logo/one-s.ico"/>
+        <img class="header-left-img" src="img/logo/plus.png"/>
+        <img class="header-left-img" src="img/logo/telegram.svg"/>
+        <img height="20px" width="30px" src="img/one-s/menu.svg"/>
+        <div class="header_title" >Список телеграм каналов и чатов по 1С в Telegram</div>
+        <img class="header-right-img" src="img/one-s/notify.svg"/>
+        <img class="header-right-img" src="img/one-s/history.svg"/>
+        <img class="header-right-img" src="img/one-s/favorite.svg"/>
+        <img class="header-right-img" src="img/one-s/search.svg"/>
+        <div class="function" onclick="openAuthorGithub()">Черненко Виталий (SeiOkami)</div>
+        <img class="header-right-img" src="img/one-s/functions.svg"/>
+    </header>
+
+    <div class="functions">
+
+        <div class="function" onclick="openRepository()">Репозиторий</div>
+        <div class="function" onclick="openHowAdd()">Как добавить канал</div>
+        <div class="function" onclick="openIssues()">Идеи и предложения</div>
+        <div class="function" onclick="openJuniorOneS()">Желтый Чайник 1С</div>
+        <div class="function" onclick="openAuthorGithub()">Автор (GitHub)</div>
+        <div class="function" onclick="openAuthorTelegram()">Автор (Telegram)</div>
+        
+    </div>
+
+    <main>
+        <div id="div_main">
+
+            <div class="channels_header flex">
+                <img src="img/one-s/window-list-left.png">
+                <div class="topLineBox">Список каналов и чатов</div>
+                <img src="img/one-s/window-list-right.png">
+            </div>
+
+            <div class="channels_commands flex">
+                <button class="margin-right" onclick="openRepository()">Добавить</button>
+                <input type="text" id="searchInput" placeholder="Поиск...">
+            </div>
+
+            <div id="filters-panel" class="flex"></div>
+            
+            <div id="div_channels"><table id="channels" class="channels"></table></div>
+
+        </div>
+    </main>
+</body>
+
+</html>

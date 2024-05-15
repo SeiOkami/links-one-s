@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width='16' height='16'>
-    <defs>
-        <symbol id="svg_favorite" viewBox="0 0 16 16">
-            <path fill-rule="evenodd" d="M8 0L10.4723 5.26673L16 6.11141L12.0001 10.2111L12.9445 16L8 13.2668L3.05582 16L4.00013 10.2111L0 6.11141L5.52784 5.26673L8 0ZM8 2.35339L6.20636 6.17465L2.07486 6.80597L5.06835 9.87394L4.37432 14.1285L8 12.1242L11.6259 14.1286L10.9319 9.87395L13.9252 6.80597L9.79375 6.17465L8 2.35339Z"></path>
-        </symbol>
-    </defs>
-    <use href="#svg_favorite" fill="#333333"></use>
-</svg>

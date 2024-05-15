@@ -78,7 +78,7 @@
     function makeLinksClickable(text) {
         
         // Разделяем текст на массив строк
-        const lines = text.split('\n');
+        const lines = text.toString().split('\n');
 
         // Обрабатываем каждую строку
         const formattedLines = lines.map(line => {

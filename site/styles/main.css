@@ -1,0 +1,239 @@
+
+/* ПЕРЕМЕННЫЕ */
+
+:root {
+    --color-text: #4b4b4b;
+    --border-func-color: #aea575;
+    --border-color: #dbdada;
+    --background-main: #fbed9e;
+    --shadow-color: rgba(233, 233, 233, 1);
+    --first-row-color: #ffffff;
+    --second-row-color: #fafafa;
+    --th-color: #f2f2f2;
+}
+
+
+/* ТЕЛО */
+
+body {
+    color: var(--color-text);
+    font-family: '', Arial, sans-serif;
+    font-size: 10pt;
+    cursor: default;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+/* ШАПКА СТРАНИЦЫ */
+
+header, .functions {
+    background: var(--background-main);
+    border-bottom: 1px solid var(--border-func-color);
+    align-items: center;
+    display: flex;
+}
+
+header {
+    height: 31px;
+}
+
+.functions {
+    padding: 0px 10px;
+    height: 52px;
+}
+
+.function {
+    padding-left: 7px;
+    padding-right: 10px;
+}
+
+.function:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.header_logo {
+    align-items: center;
+    display: flex;
+    background-color: #f4e8a0;
+    align-items: center; /* Вертикальное выравнивание */
+    justify-content: center; /* Горизонтальное выравнивание */
+}
+
+.header-right-img{
+    width: 16px;
+    height: 16px;
+    padding: 5px;
+}
+
+.header-left-img{
+    width: 20px;
+    height: 20px;
+}
+
+/* ТАБЛИЦА КАНАЛОВ */
+
+#div_main{
+    padding: 1px 16px;
+}
+
+#div_channels{
+    border: solid 1px var(--border-color);
+}
+
+.channels_header {
+    margin: 5px 0px;
+    height: 28px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 2px;
+    overflow: auto; /* Добавление полос прокрутки при необходимости */
+    display: block; /* Устанавливает таблицу как блочный элемент */
+    height: calc(100vh - 200px);
+    flex-grow: 1;
+    table-layout: auto; /* Устанавливает фиксированную ширину для ячеек */
+    border-collapse: collapse; /* Убирает двойные границы между ячейками */
+    box-sizing: border-box;
+}
+
+th.sorted-asc,
+th.sorted-desc{
+    padding-right: 20px; /* Отступ справа для размещения стрелочки */
+}
+
+th.sorted-asc::after,
+th.sorted-desc::after{
+    position: absolute; /* Абсолютное позиционирование для стрелочки */
+    right: 5px; /* Отступ стрелочки от правого края */
+    top: 50%; /* Выравнивание стрелочки по вертикали */
+    transform: translateY(-50%); /* Сдвиг стрелочки вверх на 50% ее высоты */
+}
+
+th.sorted-asc::after{
+    content: "↓";
+}
+
+th.sorted-desc::after{
+    content: "↑";
+}
+
+#searchInput {
+    width: 100%;
+    border: 1px solid var(--border-func-color);
+    border-radius: 3px;
+}
+
+table tr:nth-child(even) {
+    background-color: var(--second-row-color); /* Цвет фона для четных строк */
+}
+  
+table tr:nth-child(odd) {
+    background-color: var(--first-row-color); /* Цвет фона для нечетных строк */
+}
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 8px;
+    text-align: left;
+    word-wrap: break-word; /* Переносит слова на новую строку, если они не помещаются в ячейку */
+    padding: 5px; /* Добавляет небольшой отступ внутри ячеек */
+    max-width: 500px; /* Позволяет ячейке сжиматься при необходимости */
+}
+
+th {
+    cursor: pointer;
+    background-color: var(--th-color);
+    font-weight: normal;
+    height: 28px;
+    padding-left: 8px;
+    position: sticky;
+    top: 0;
+}
+
+.header_title{
+    margin-left: 4px;
+    flex: 1 1 auto;
+}
+
+.btn-arrow {
+    margin: 0 -1px;
+    height: inherit;
+    padding: 2px 9px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2);
+}
+
+.channels_commands{
+    margin-bottom: 5px;
+}
+
+.margin-right{
+    margin-right: 8px;
+}
+
+button{
+    height: 24px;
+    padding: 12px 10px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    color: var(--color-text);
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    box-shadow: inset 0 -1px 3px rgb(230, 230, 230),
+            0 0 0 rgb(214, 214, 214);
+}
+
+button:hover{
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.topLineBox {
+    font-size: 14pt;
+    position: relative;
+    width: 100%;
+    min-width: 2em;
+    height: 1.5em;
+    line-height: 1.5em;
+    padding: 2px 10px;
+    vertical-align: middle;
+}
+
+.btn-arrow:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    bottom: -100%;
+    right: -50%;
+    left: -50%;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.1);
+}
+
+.column-ID, .column-Actual {
+    display: none;
+}
+
+.tag {
+    padding: 1px 5px;
+    margin: 10px 3px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.tag-filter::after{
+    content: " ✖";
+}

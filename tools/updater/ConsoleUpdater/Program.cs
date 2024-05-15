@@ -1,10 +1,6 @@
-﻿using System.ComponentModel;
-using Telegram.Bot.Types;
-using UpdaterLibrary;
-using UpdaterLibrary.Models;
+﻿using UpdaterLibrary;
 using UpdaterLibrary.SiteUpdater;
 using UpdaterLibrary.Tools;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace ConsoleUpdater;
 
@@ -30,8 +26,7 @@ static class Program
                 break;
             } else if (key.KeyChar == '2') {
                 Console.Write("\n Имя канала: ");
-                //filterChanel = Console.ReadLine();
-                filterChanel = "joinchat/vL11I45pKcMzMmZi";
+                filterChanel = Console.ReadLine() ?? "";
                 if (!string.IsNullOrEmpty(filterChanel))
                     break;
             }

@@ -1,16 +1,11 @@
 ﻿using UpdaterLibrary.Models;
 using UpdaterLibrary.Settings;
 using System.Text.Json;
-using Telegram;
 using UpdaterLibrary.UpdateHandlers;
 using System.Text;
 using UpdaterLibrary.SiteUpdater;
 using Telegram.Bot.Types;
 using System.Text.Encodings.Web;
-using System.Text.Unicode;
-using Telegram.Bot.Types.Enums;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Threading.Channels;
 using UpdaterLibrary.TelegramBot;
 using UpdaterLibrary.Tools;
 

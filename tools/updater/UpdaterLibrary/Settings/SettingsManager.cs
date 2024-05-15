@@ -1,7 +1,5 @@
 ﻿namespace UpdaterLibrary.Settings;
 using Newtonsoft.Json;
-using System.Globalization;
-using Telegram.Bot.Types.Enums;
 
 public static class SettingsManager
 {

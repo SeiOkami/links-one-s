@@ -1,5 +1,4 @@
 ﻿using System.Text.Json.Serialization;
-using Telegram.Bot.Types.Enums;
 using UpdaterLibrary.Settings;
 
 namespace UpdaterLibrary.Models;

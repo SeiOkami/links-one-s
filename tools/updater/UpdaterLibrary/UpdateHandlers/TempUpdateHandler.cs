@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UpdaterLibrary.Settings;
+﻿using UpdaterLibrary.Settings;
 using UpdaterLibrary.SiteUpdater;
-using Telegram.Bot.Types.Enums;
 
 namespace UpdaterLibrary.UpdateHandlers;
 public class TempUpdateHandler : IUpdateHandler

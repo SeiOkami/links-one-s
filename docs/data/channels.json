@@ -3628,6 +3628,22 @@
         "Канал",
         "Узбекистан"
       ]
+    },
+    {
+      "ID": -1001611811261,
+      "Url": "https://t.me/ERPCE",
+      "IsChannel": true,
+      "Name": "INFOSTART ERP community edition",
+      "Description": "Модульная (open source) конфигурация \"INFOSTART ERP community edition\"",
+      "Contact": "https://t.me/noprogrammer",
+      "Actual": "2024-05-16T14:31:52.6784361+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Проект",
+        "Канал",
+        "Малыши (<500)"
+      ]
     }
   ]
 }

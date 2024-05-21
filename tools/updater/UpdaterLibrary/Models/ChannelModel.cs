@@ -26,7 +26,7 @@ public class ChannelModel
     public DateTime Actual { get; set; }
     public int MemberCount { get; set; }
     public string Comment { get; set; } = string.Empty;
-    public List<string> Tags { get; set; }
+    public List<string> Tags { get; set; } = new();
 
     public override string ToString() => UserName;
 

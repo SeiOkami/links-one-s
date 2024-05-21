@@ -3648,6 +3648,36 @@
     {
       "ID": -1001596192795,
       "Url": "https://t.me/tell_me_alisa",
+      "IsChannel": true,
+      "Name": "Алиса, скажи, а в будущем весело?",
+      "Description": "Заметки программиста о работе и жизни. \n\nhttps://kostyanetsky.ru",
+      "Contact": "",
+      "Actual": "2024-05-21T07:03:41.6488504+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Около 1С",
+        "Авторский",
+        "Блог"
+      ]
+    },
+    {
+      "ID": -1001784219388,
+      "Url": "https://t.me/blogpro1c",
+      "IsChannel": true,
+      "Name": "Блог про 1С",
+      "Description": "Программист 1С Алёна Мешкова\n@alyona_meshkova\n\nКанал о том как:\n✔️Работать в 1С БЫСТРО\n✔️Экономить на обращениях к программистам.",
+      "Contact": "https://t.me/alyona_meshkova",
+      "Actual": "2024-05-21T07:06:49.246122+03:00",
+      "MemberCount": 2,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Авторский",
+        "Блог"
+      ]
     }
   ]
 }

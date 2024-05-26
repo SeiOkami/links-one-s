@@ -3678,6 +3678,38 @@
         "Авторский",
         "Блог"
       ]
+    },
+    {
+      "ID": -1002061183626,
+      "Url": "https://t.me/devops1c",
+      "IsChannel": true,
+      "Name": "DevOps 1C",
+      "Description": "",
+      "Contact": "",
+      "Actual": "2024-05-26T19:18:48.0296576+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "DevOps"
+      ]
+    },
+    {
+      "ID": -1001899049595,
+      "Url": "https://t.me/devops1s",
+      "IsChannel": false,
+      "Name": "DevOps 1C",
+      "Description": "",
+      "Contact": "",
+      "Actual": "2024-05-26T19:19:12.9973567+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Чат",
+        "Малыши (<500)",
+        "DevOps"
+      ]
     }
   ]
 }

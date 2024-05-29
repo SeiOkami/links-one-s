@@ -280,6 +280,11 @@
       "Name": "1С:Шина",
       "Description": "",
       "Color": "#CC8899"
+    },
+    {
+      "Name": "ОАЭ",
+      "Description": "1С в ОАЭ",
+      "Color": "#F5DEB3"
     }
   ],
   "Channels": [
@@ -3709,6 +3714,22 @@
         "Чат",
         "Малыши (<500)",
         "DevOps"
+      ]
+    },
+    {
+      "ID": -1002073530549,
+      "Url": "https://t.me/DubaiOneC",
+      "IsChannel": true,
+      "Name": "Dubai OneC",
+      "Description": "Жизнь 1сников в Дубае\nhttps://firstbit.ae/",
+      "Contact": "",
+      "Actual": "2024-05-29T19:01:54.2175609+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "ОАЭ"
       ]
     }
   ]

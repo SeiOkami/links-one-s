@@ -665,15 +665,15 @@
       "ID": 950599525,
       "Url": "https://t.me/FastCodeIM_Bot?start=JuniorOneS",
       "IsChannel": false,
-      "Name": "",
+      "Name": "FastCode Bot / 1С работа, вакансии ",
       "Description": "",
       "Contact": "https://t.me/mbolsun",
-      "Actual": "2024-05-26T19:22:30.9201926+03:00",
+      "Actual": "2024-06-30T18:32:02.9270939+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Вакансии",
-        "Чат"
+        "Пользователь"
       ]
     },
     {
@@ -2474,30 +2474,30 @@
       "ID": 1398332225,
       "Url": "https://t.me/platform_suggestions",
       "IsChannel": false,
-      "Name": "",
+      "Name": "Platform Suggester",
       "Description": "",
       "Contact": "",
-      "Actual": "2024-05-26T19:31:34.5694375+03:00",
+      "Actual": "2024-06-30T18:39:47.9172189+03:00",
       "MemberCount": 0,
       "Comment": "Предложения по развитию платформы 1С",
       "Tags": [
         "Официальный",
-        "Чат"
+        "Пользователь"
       ]
     },
     {
       "ID": 694784811,
       "Url": "https://t.me/InfostartRuBot",
       "IsChannel": false,
-      "Name": "",
+      "Name": "INFOSTART.RU ",
       "Description": "",
       "Contact": "",
-      "Actual": "2024-05-26T19:31:44.2634562+03:00",
+      "Actual": "2024-06-30T18:39:51.0141177+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Официальный",
-        "Чат"
+        "Пользователь"
       ]
     },
     {
@@ -2520,9 +2520,9 @@
       "Url": "https://t.me/yellow_note",
       "IsChannel": true,
       "Name": "Заметки 1Сницы. Анастасия Синякова",
-      "Description": "О мире 1С и обучении. Интервью с 1Сниками, реальные истории, полезные материалы. Docendo discimus.\nОбо мне АнастасияСинякова.рф \nhttp://bgcalls.ru - практикум разработки 1С\n@job_for_juniors -  вакансии/резюме джунов",
+      "Description": "О мире 1С и обучении. Интервью с 1Сниками, реальные истории, полезные материалы. Docendo discimus.\nВизитка: https://Одинесница.рф\nhttp://bgcalls.ru - практикум разработки 1С\n@job_for_juniors -  вакансии/резюме джунов",
       "Contact": "https://t.me/sAnastasia",
-      "Actual": "2024-06-28T08:57:18.9509607+03:00",
+      "Actual": "2024-06-30T18:39:57.3177296+03:00",
       "MemberCount": 2,
       "Comment": "",
       "Tags": [
@@ -3792,6 +3792,22 @@
         "Канал",
         "Малыши (<500)",
         "Авторский"
+      ]
+    },
+    {
+      "ID": -1002062065121,
+      "Url": "https://t.me/OpenYellowProject",
+      "IsChannel": true,
+      "Name": "OpenYellow | Open-source и 1С:Предприятие",
+      "Description": "Агрегатор Open-source проектов для 1С:Предприятие\n\nУзнать больше: \nhttps://github.com/OpenBSL\nСайт проекта: \nhttps://openyellow.notion.site",
+      "Contact": "",
+      "Actual": "2024-06-30T18:57:32.494998+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Проект"
       ]
     }
   ]

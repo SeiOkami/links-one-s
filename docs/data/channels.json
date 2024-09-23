@@ -503,9 +503,9 @@
       "Url": "https://t.me/esres_1c",
       "IsChannel": true,
       "Name": "1С Работа (вакансии в штат и аутстаффинг)",
-      "Description": "Вакансии на проектную и постоянную работу 1С специалистов.\n\nРазместим вашу вакансию или обьявление о подработке.\n\nКонтакт @GSKBusiness",
+      "Description": "Вакансии на проектную и постоянную работу 1С специалистов.\n\nПо вопросам размещения вакансий или рекламы обращайтесь сюда @Kate_13AM\n\nКонтакт для прочих вопросов @GSKBusiness",
       "Contact": "https://t.me/GSKBusiness",
-      "Actual": "2024-08-03T20:09:25.6691061+03:00",
+      "Actual": "2024-09-23T09:17:16.429197+03:00",
       "MemberCount": 5,
       "Comment": "",
       "Tags": [
@@ -581,8 +581,8 @@
       "Name": "tools_ui_1c",
       "Description": "https://github.com/cpr1c/tools_ui_1c https://infostart.ru/public/1178280/",
       "Contact": "https://t.me/levkin_s",
-      "Actual": "2024-05-15T07:37:45.2261565+03:00",
-      "MemberCount": 0,
+      "Actual": "2024-09-23T09:35:34.16547+03:00",
+      "MemberCount": 1,
       "Comment": "",
       "Tags": [
         "Проект",
@@ -715,10 +715,10 @@
       "ID": -1001938319703,
       "Url": "https://t.me/therapy_1c",
       "IsChannel": true,
-      "Name": "Клуб питерских одинесников",
-      "Description": "По всем вопросам @therapy_1c_admin\n\nАдмины\n@TanyaRi\n@AnnVoykina\n@DKuchma\n\nПравила https://t.me/therapy_1c/102\nЧат для общения https://t.me/therapy_1c_chat",
+      "Name": "Клуб питерских одинэсников",
+      "Description": "По всем вопросам @therapy_1c_admin\n\n\uD83D\uDC49 Правила https://t.me/therapy_1c/102\n\uD83D\uDC49 Навигация https://t.me/therapy_1c/267\n\uD83D\uDC49 Чат для общения https://t.me/therapy_1c_chat (на входе капча)\n\nАдмины\n@TanyaRi\n@AnnVoykina\n@DKuchma",
       "Contact": "https://t.me/TanyaRi",
-      "Actual": "2024-07-22T09:51:59.0021127+03:00",
+      "Actual": "2024-09-23T09:18:30.8243726+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -733,9 +733,9 @@
       "Url": "https://t.me/therapy_1c_chat",
       "IsChannel": false,
       "Name": "Чат Клуб питерских одинэсников",
-      "Description": "Чат для общения в рамках клуба Питерских одинэсников \n\nПравила https://t.me/therapy_1c/102\n\nОсновной канал https://t.me/therapy_1c\n\nПо всем вопросам @TanyaRi",
+      "Description": "Чат для общения в рамках клуба Питерских одинэсников \n\nПравила https://t.me/therapy_1c/102\n\nОсновной канал https://t.me/therapy_1c\n\nНавигация по каналу https://t.me/therapy_1c/267\n\nПо всем вопросам @therapy_1c_admin",
       "Contact": "https://t.me/DKuchma",
-      "Actual": "2024-05-13T21:09:02.623937+03:00",
+      "Actual": "2024-09-23T09:18:33.9902683+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -886,9 +886,9 @@
       "Url": "https://t.me/smallbusiness_1c",
       "IsChannel": true,
       "Name": "1С для малого бизнеса",
-      "Description": "Все для предпринимателя – автоматизация бизнеса и кейсы, полезные инструкции, новое в решениях 1С, вебинары от экспертов, изменения законодательства, новости маркировки и маркетплейсов, проверки бизнеса и штрафы.\n\nВсё для торговли на сайте torg.1c.ru",
+      "Description": "Все для предпринимателя – автоматизация бизнеса и кейсы, полезные инструкции, новое в решениях 1С, вебинары от экспертов, изменения законодательства, новости маркировки и маркетплейсов, проверки бизнеса и штрафы.\nНаписать редактору канала @social_media_1c",
       "Contact": "",
-      "Actual": "2024-08-03T19:53:54.0692032+03:00",
+      "Actual": "2024-09-23T09:19:25.0485556+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -944,10 +944,10 @@
       "ID": -1001170136786,
       "Url": "https://t.me/top_1c",
       "IsChannel": true,
-      "Name": "Дмитрий Котов | 1С Новости Программирование Аналитика",
+      "Name": "Дмитрий Котов | 1С-Заметки",
       "Description": "Авторский канал Дмитрия Котова, пишу о всем связанном с 1С:Предприятием, работой и жизнью 1Сника\n\nМой профиль инфостарт https://infostart.ru/profile/564942/\n\nКто я такой: https://t.me/top_1c/240\n\nПо всем вопросам @kotovdima",
       "Contact": "https://t.me/KotovDima",
-      "Actual": "2024-05-26T19:23:58.6002212+03:00",
+      "Actual": "2024-09-23T09:19:44.0242105+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -1306,15 +1306,14 @@
       "Name": "Аттестация &quot;1С:Специалист по УНФ&quot;",
       "Description": "Ссылка для приглашения в группу: https://t.me/joinchat/XkhOGdnqotk2YTdi",
       "Contact": "",
-      "Actual": "2024-05-15T11:54:57.517127+03:00",
+      "Actual": "2024-09-23T09:39:20.2844596+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Аттестация",
         "Отраслевой",
         "По ссылке",
-        "Чат",
-        "Малыши (<500)"
+        "Чат"
       ]
     },
     {
@@ -1422,8 +1421,8 @@
       "Name": "Администрирование 1С",
       "Description": "Группа посвящена настройке, администрированию и оптимизации 1С\n \n\uD83D\uDCCC Канал DevOPS 1C @devops1c",
       "Contact": "https://t.me/aleksandr1c",
-      "Actual": "2024-08-03T20:14:09.2134465+03:00",
-      "MemberCount": 2,
+      "Actual": "2024-09-23T09:40:01.2101313+03:00",
+      "MemberCount": 3,
       "Comment": "",
       "Tags": [
         "Администрирование",
@@ -1583,8 +1582,8 @@
       "Name": "1С:Предприятие 8",
       "Description": "Канал обо всем, что связано с 1С. Для обратной связи @shalimski",
       "Contact": "https://t.me/shalimski",
-      "Actual": "2024-05-09T00:00:00",
-      "MemberCount": 9,
+      "Actual": "2024-09-23T09:40:32.6014758+03:00",
+      "MemberCount": 10,
       "Comment": "Древний и большой канал по 1С",
       "Tags": [
         "Канал",
@@ -1612,9 +1611,9 @@
       "Url": "https://t.me/wiki1c",
       "IsChannel": true,
       "Name": "wiki 1С. База знаний, мысли и заметки.",
-      "Description": "Не только про 1С. Программирование и аналитика. Самообучение и развитие.\n\nРекламы нет.\n\nОбратная связь @im0593",
+      "Description": "Не только про 1С. Программирование и аналитика. Самообучение и развитие.\n\nРекламы нет.\n\nОбратная связь @russian_linux",
       "Contact": "",
-      "Actual": "2024-05-09T00:00:00",
+      "Actual": "2024-09-23T09:24:18.5412695+03:00",
       "MemberCount": 3,
       "Comment": "",
       "Tags": [
@@ -1726,8 +1725,8 @@
       "Name": "1C программист",
       "Description": "Cтатьи, курсы, советы, шаблоны кода 1С. По всем вопросам @evgenycarter",
       "Contact": "https://t.me/evgenycarter",
-      "Actual": "2024-05-09T00:00:00",
-      "MemberCount": 4,
+      "Actual": "2024-09-23T09:41:00.8858399+03:00",
+      "MemberCount": 5,
       "Comment": "Копипасты других источников и далеко не всегда с указанием ссылок на оригинал ",
       "Tags": [
         "Канал",
@@ -1801,9 +1800,9 @@
       "Url": "https://t.me/by_1cnik",
       "IsChannel": true,
       "Name": "1Cnik",
-      "Description": "О программировании 1С 8.3\uD83D\uDC68‍\uD83D\uDCBBНовости, инсайд, обзоры, истории, примеры кода.\n\uD83D\uDCCB https://koder.by/ps.php\n\n\uD83D\uDCAC Чат: https://t.me/kod_1C\n\n✨ Юмор: https://t.me/yellow_humor\n\n\uD83D\uDCDA Скидки на курсы 1С: https://t.me/by_1cnik/158\n\n\uD83D\uDCAD Контакт: @Artur_1C",
+      "Description": "О программировании 1С 8.3\uD83D\uDC68‍\uD83D\uDCBBНовости, инсайд, обзоры, истории, примеры кода.\nГео: Россия, Беларусь, Казахстан.\n\n\uD83D\uDCAC Чат: https://t.me/kod_1C\n\n✨ Юмор: https://t.me/yellow_humor\n\n\uD83D\uDCDA Скидки на курсы 1С: https://t.me/by_1cnik/158\n\n\uD83D\uDCAD Контакт: @Artur_1C",
       "Contact": "https://t.me/Artur_1C",
-      "Actual": "2024-07-22T10:14:03.1873813+03:00",
+      "Actual": "2024-09-23T09:24:57.1337183+03:00",
       "MemberCount": 3,
       "Comment": "",
       "Tags": [
@@ -1867,8 +1866,8 @@
       "Name": "Александр Кунташов — про 1С и не только",
       "Description": "Заметки про разработку и смежные штуки. 1С, Битрикс24, 1Script, PHP, Linux, JS, Python и другое",
       "Contact": "https://t.me/kuntashov",
-      "Actual": "2024-05-09T00:00:00",
-      "MemberCount": 1,
+      "Actual": "2024-09-23T09:41:29.3673961+03:00",
+      "MemberCount": 2,
       "Comment": "",
       "Tags": [
         "Авторский",
@@ -1910,12 +1909,12 @@
     },
     {
       "ID": -1001444193584,
-      "Url": "https://t.me/jokes1c",
+      "Url": "https://t.me/veryimportantclient",
       "IsChannel": true,
-      "Name": "Пишет клиент 1С",
-      "Description": "Пишет самый важный клиент по 1С",
-      "Contact": "https://t.me/OneAssNick",
-      "Actual": "2024-06-28T08:55:03.1058969+03:00",
+      "Name": "Валера CIO",
+      "Description": "Важный клиент по 1С",
+      "Contact": "",
+      "Actual": "2024-09-23T10:19:33.8426153+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -1991,8 +1990,8 @@
       "Name": "Гайды по 1С",
       "Description": "Рассказываем об 1C простым и доступным языком\n\nПо всем вопросам: @gaius_pliniuss\n\nНаш чат: https://t.me/+ludamgbR00BiNzU6",
       "Contact": "https://t.me/nikola_sta",
-      "Actual": "2024-06-28T08:55:18.8585797+03:00",
-      "MemberCount": 1,
+      "Actual": "2024-09-23T09:42:00.6238767+03:00",
+      "MemberCount": 2,
       "Comment": "",
       "Tags": [
         "Канал",
@@ -2188,10 +2187,10 @@
       "ID": -1001809770245,
       "Url": "https://t.me/razrab1c",
       "IsChannel": true,
-      "Name": "Junior 1С / Начинающие Разработчики 1С/ Стажеры 1С",
+      "Name": "Junior 1С / Начинающие Разработчики 1С/ Стажеры 1C",
       "Description": "Данный канал создан для тех, кто хочет попасть в мир 1С и закрепиться в нем, как специалист\uD83E\uDDD1‍\uD83D\uDCBB\uD83D\uDC69‍\uD83D\uDCBB\n\nПериодически провожу стримы с разбором задач\uD83D\uDD75️‍♂️\n\nПо всем вопросам можете обращаться напрямую @NikolayGabur ✌️",
       "Contact": "",
-      "Actual": "2024-05-13T21:14:20.0259427+03:00",
+      "Actual": "2024-09-23T09:26:23.3390952+03:00",
       "MemberCount": 2,
       "Comment": "",
       "Tags": [
@@ -2251,9 +2250,9 @@
       "Url": "https://t.me/yellow_pad",
       "IsChannel": true,
       "Name": "Жёлтая тетрадь \uD83D\uDCD2 Блог о разработке в 1С \uD83D\uDC68‍\uD83D\uDCBB",
-      "Description": "В основном небольшие и нерегулярные личные заметки о разработке на платформе 1С:Предприятие.\n\n@builin - по всем вопросам, вакансии и рекламу не размещаю.\n\nЕще один мой канал: @kodbaza (осторожно, там мясо)",
+      "Description": "В основном небольшие и нерегулярные личные заметки о разработке на платформе 1С:Предприятие.\n\n@builin - по всем вопросам, вакансии и рекламу не размещаю.\n\nЕще один мой канал: @kodbaza (осторожно, там Java)",
       "Contact": "https://t.me/builin",
-      "Actual": "2024-05-13T21:14:36.7878932+03:00",
+      "Actual": "2024-09-23T09:26:35.9000126+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -2316,8 +2315,8 @@
       "Name": "Р1:Мемы 1С",
       "Description": "мемчики, кринж, баяны и вообще. Не только 1С.\n! Это просто мемы. Ничего личного. \n\nКонтент генерирует сообщество https://t.me/tusovka1C\nПрисылайте своё!\n\nFAQ и Правила:\nhttps://telegra.ph/R1-Gajd-po-rabote-s-kanalami-06-07",
       "Contact": "https://t.me/OneAssNick",
-      "Actual": "2024-06-13T16:01:34.6808861+03:00",
-      "MemberCount": 5,
+      "Actual": "2024-09-23T09:43:06.5216539+03:00",
+      "MemberCount": 6,
       "Comment": "",
       "Tags": [
         "Канал",
@@ -2518,9 +2517,9 @@
       "Url": "https://t.me/yellow_note",
       "IsChannel": true,
       "Name": "Заметки 1Сницы. Анастасия Синякова",
-      "Description": "О мире 1С и обучении. Интервью с 1Сниками, реальные истории, полезные материалы.\nhttps://Одинесница.рф\nhttp://bgcalls.ru - практикум разработки 1С\n@job_for_juniors -  как Р1, только для джунов",
+      "Description": "О мире 1С и обучении. Интервью с 1Сниками, реальные истории, полезные материалы.\nОбо мне: odinesnitsa.taplink.ws\nhttp://bgcalls.ru - практикум разработки 1С\n@job_for_juniors -  как Р1, только для джунов",
       "Contact": "https://t.me/sAnastasia",
-      "Actual": "2024-07-22T10:01:06.7721023+03:00",
+      "Actual": "2024-09-23T09:27:43.4272168+03:00",
       "MemberCount": 2,
       "Comment": "",
       "Tags": [
@@ -2638,8 +2637,8 @@
       "Name": "1C Россия",
       "Description": "Чат для общения специалистов.\nПо всем вопросам -> @aftertime\nКупить рекламу - https://telega.in/c/ru_1c",
       "Contact": "",
-      "Actual": "2024-05-15T07:44:41.950761+03:00",
-      "MemberCount": 6,
+      "Actual": "2024-09-23T09:44:09.0229416+03:00",
+      "MemberCount": 7,
       "Comment": "",
       "Tags": [
         "Чат"
@@ -2878,8 +2877,8 @@
       "Name": "Вакансии в сфере 1С",
       "Description": "Правила группы: telegra.ph/pg-05-29\nПо всем вопросам: @fusce\n\n‼️Площадка для публикации вакансий в сфере 1С.\n\n⛔️Администрация группы не несёт ответственности за объявления предоставленные участниками группы.",
       "Contact": "",
-      "Actual": "2024-08-03T20:19:01.5466597+03:00",
-      "MemberCount": 18,
+      "Actual": "2024-09-23T09:44:59.7176446+03:00",
+      "MemberCount": 19,
       "Comment": "",
       "Tags": [
         "Вакансии",
@@ -2893,8 +2892,8 @@
       "Name": "Вакансии 1С и Bitrix-разработчиков",
       "Description": "\uD83D\uDCBC Как разместить вакансию: \nhttps://t.me/bitrix_1c_job/14\n\n\uD83D\uDCCB Как разместить резюме: \nhttps://t.me/bitrix_1c_job/16\n\n\uD83D\uDDC2 Все TG-каналы по IT-направлениям:\nhttps://t.me/geeklink_ru/451\n\n\uD83E\uDD16 TG-бот поиска вакансий:\n@geeklink_jobs_bot\n\nОбратная связь: @henzerboss",
       "Contact": "",
-      "Actual": "2024-05-09T00:00:00",
-      "MemberCount": 2,
+      "Actual": "2024-09-23T09:45:03.0474255+03:00",
+      "MemberCount": 3,
       "Comment": "",
       "Tags": [
         "Вакансии",
@@ -2981,9 +2980,9 @@
       "Url": "https://t.me/edt1c",
       "IsChannel": false,
       "Name": "1C:EDT",
-      "Description": "Обсуждение Enterprise Development Tools (разработка на 1С)\n\nЕсли бот удаляет ваши сообщения или ссылки - пишите @amidvn\n\nВакансии, реклама и ссылки на другие каналы НЕ размещаются.\n\nКанал для размещения вакансий: @joboneC",
+      "Description": "Обсуждение Enterprise Development Tools (разработка на 1С)\n\nЕсли бот удаляет ваши сообщения или по ошибке заблокировал - пишите @amidvn\n\nВакансии, реклама и ссылки на другие каналы НЕ размещаются.\n\nКанал для размещения вакансий: @joboneC",
       "Contact": "https://t.me/amidvn",
-      "Actual": "2024-05-15T07:45:53.7147217+03:00",
+      "Actual": "2024-09-23T09:30:31.2380095+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -3074,8 +3073,8 @@
       "Name": "1С ПРЕДПРИЯТИЕ ЧАТ 1C РАБОТА ВАКАНСИИ ПОИСК",
       "Description": "‼️Пост/Вакансия платные‼️\n\n‼️Стоимость поста - 500₽‼️\n\n‼️Публикация в ЛС @o1eg_rzn‼️\n\n‼️Пост публикуется бессрочно ‼️\n\n‼️Пост можно закрепить на месяц +500₽ ‼️\n\nБонусом публикация идет сразу еще на два канала\n\nhttps://t.me/yellow1c и https://t.me/how1c",
       "Contact": "https://t.me/o1eg_rzn",
-      "Actual": "2024-08-03T20:05:35.0462426+03:00",
-      "MemberCount": 5,
+      "Actual": "2024-09-23T09:45:40.6467165+03:00",
+      "MemberCount": 4,
       "Comment": "",
       "Tags": [
         "Вакансии",
@@ -3166,9 +3165,9 @@
       "Url": "https://t.me/osminog1s",
       "IsChannel": false,
       "Name": "Osminog (1С и около 1С)",
-      "Description": "\uD83D\uDE4B‍♀️ Нужна срочная помощь \nпо 1C? Пишите мне  @ivan1s. Отвечаю быстро",
+      "Description": "Интересна подработка по 1С? Пишите @ivan1s \nДобавлю в закрытую группу",
       "Contact": "https://t.me/Ivan1s",
-      "Actual": "2024-08-03T20:06:00.5995039+03:00",
+      "Actual": "2024-09-23T09:31:25.885517+03:00",
       "MemberCount": 4,
       "Comment": "",
       "Tags": [
@@ -3182,9 +3181,9 @@
       "Url": "https://t.me/CPMRussia",
       "IsChannel": false,
       "Name": "1С:УХ. ЕРПУХ. Perform. Чат профи",
-      "Description": "Неофициальный профессиональный чат про 1С:Управление холдингом, ERP.УХ в части УХ, Perform.\n\nПишем туда, куда надо. А куда не надо - не пишем!\n\n@iwangoff - админ и мой канал @WangoffIT\n\n@ECMRussia - ДО\n@RussiaERP - ERP, не наш",
+      "Description": "Неофициальный профессиональный чат про 1С:Управление холдингом, ERP.УХ в части УХ, Perform.\n\n\n@iwangoff - админ\n@ECMRussia - ДО\n@RussiaERP - ERP, не наш",
       "Contact": "https://t.me/iwangoff",
-      "Actual": "2024-05-15T07:46:34.7486246+03:00",
+      "Actual": "2024-09-23T09:31:32.1860723+03:00",
       "MemberCount": 3,
       "Comment": "",
       "Tags": [
@@ -3246,8 +3245,8 @@
       "Name": "Жёлтая ржомба (1С:Мемы)",
       "Description": "Ржомбанем по желтому! Бугагашечки и видео мемчики про 1С и рядом.",
       "Contact": "",
-      "Actual": "2024-05-09T00:00:00",
-      "MemberCount": 0,
+      "Actual": "2024-09-23T09:46:12.3544356+03:00",
+      "MemberCount": 1,
       "Comment": "",
       "Tags": [
         "Канал",
@@ -3276,8 +3275,8 @@
       "Name": "Е.БУДНИ программиста 1С | Роман Чумадин",
       "Description": "Ежедневные будни программиста 1С - это канал с реальными задачами с работы, с собеседований и повседневными хитростями. Подойдет как для начинающих, так и опытных.\n\nАвтор - Роман Чумадин\nДля связи, рекламы и т.п. пишите @chum1roma",
       "Contact": "https://t.me/chum1roma",
-      "Actual": "2024-07-22T10:05:21.5314288+03:00",
-      "MemberCount": 3,
+      "Actual": "2024-09-23T09:46:18.5987005+03:00",
+      "MemberCount": 4,
       "Comment": "",
       "Tags": [
         "Авторский",
@@ -3397,9 +3396,9 @@
       "Url": "https://t.me/VasiliiPro1C",
       "IsChannel": true,
       "Name": "Учимся 1С Вместе!\uD83D\uDC68‍\uD83D\uDCBB",
-      "Description": "Канал Василий про 1С!\n\nЧат - https://t.me/VasiliiPro1Chat\n\nЮтуб - https://youtube.com/@VasiliiPro1C\n\nПо вопросам - https://t.me/VasiliiEremin\n\nНаши курсы:\n- https://stepik.org/a/185939\n- https://stepik.org/a/187221\n- https://stepik.org/a/207461",
+      "Description": "Канал Василий про 1С!\n\nВсе наши курсы и немного обо мне в одном месте:\nhttps://vasiliiproschool.ru\n\nЧат -     https://t.me/VasiliiPro1Chat\nЮтуб -  https://youtube.com/@VasiliiPro1C\nПочта - https://t.me/VasiliiEremin",
       "Contact": "",
-      "Actual": "2024-06-28T09:01:58.9475327+03:00",
+      "Actual": "2024-09-23T09:32:23.3385775+03:00",
       "MemberCount": 1,
       "Comment": "",
       "Tags": [
@@ -3478,24 +3477,23 @@
       "Name": "Сабсистемс - Разработки для 1С от А до Я",
       "Description": "Разработка решений для 1С. \nМегапрайс ПРО. Minmax Управление закупками в 1С.\nБесплатная загрузка в 1С из Excel.\nРасширения для 1С 8.3 УТ11 / УНФ / Розница / КА / ERP\nhttps://subsystems.ru/",
       "Contact": "",
-      "Actual": "2024-05-13T21:19:17.7960615+03:00",
+      "Actual": "2024-09-23T09:47:05.7717254+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Авторский",
         "Канал",
-        "Малыши (<500)",
         "Франч и аутсорсы"
       ]
     },
     {
       "ID": -1001888723708,
-      "Url": "https://t.me/lapkicode",
+      "Url": "https://t.me/lapki106",
       "IsChannel": true,
-      "Name": "lapkicode",
+      "Name": "lapki106",
       "Description": "Учимся 1С программированию вместе!",
       "Contact": "",
-      "Actual": "2024-05-09T00:00:00",
+      "Actual": "2024-09-23T10:22:27.8514046+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -3666,9 +3664,9 @@
       "Url": "https://t.me/tell_me_alisa",
       "IsChannel": true,
       "Name": "Алиса, скажи, а в будущем весело?",
-      "Description": "Заметки программиста о работе и жизни. \n\nhttps://kostyanetsky.ru",
+      "Description": "https://kostyanetsky.ru",
       "Contact": "",
-      "Actual": "2024-05-21T07:03:41.6488504+03:00",
+      "Actual": "2024-09-23T09:33:34.374635+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -3750,12 +3748,11 @@
       "Name": "Никита Арипов | 1С, разработка, полезный контент",
       "Description": "Разрабатываю типовую 1С:Бухгалтерия предприятия. Делюсь полезностями\n\nПо всем вопросам @Oxotka\nGitHub - https://github.com/Oxotka",
       "Contact": "https://t.me/Oxotka",
-      "Actual": "2024-08-03T20:08:19.0247129+03:00",
+      "Actual": "2024-09-23T09:47:58.822386+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Канал",
-        "Малыши (<500)",
         "Авторский"
       ]
     },
@@ -3797,9 +3794,9 @@
       "Url": "https://t.me/OpenYellowProject",
       "IsChannel": true,
       "Name": "OpenYellow | Open-source и 1С:Предприятие",
-      "Description": "Агрегатор Open-source проектов для 1С:Предприятие\n\nУзнать больше: \nhttps://github.com/OpenBSL\nСайт проекта: \nhttps://openyellow.notion.site",
+      "Description": "Агрегатор Open-source проектов для 1С:Предприятие\n\nУзнать больше: \nhttps://github.com/OpenBSL\nСайт проекта: \nhttps://openyellow.org",
       "Contact": "",
-      "Actual": "2024-07-22T10:20:36.3968329+03:00",
+      "Actual": "2024-09-23T09:34:00.031478+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -3814,12 +3811,11 @@
       "Name": "Новости 1С",
       "Description": "Самые свежие новости из мира 1С \uD83D\uDE80 Автоматический отбор и краткое изложение каждой новости \uD83D\uDCCC Будь в курсе событий! \uD83D\uDD25 Для контактов - @mirinda_tero",
       "Contact": "",
-      "Actual": "2024-07-22T10:20:39.5167659+03:00",
+      "Actual": "2024-09-23T09:48:11.3955535+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
         "Канал",
-        "Малыши (<500)",
         "Новости"
       ]
     },
@@ -3827,10 +3823,10 @@
       "ID": -1002071509831,
       "Url": "https://t.me/sppr_plus",
       "IsChannel": true,
-      "Name": "1С:СППР+ Channel",
+      "Name": "1С:СППР+ [Sk]",
       "Description": "Система нового поколения на базе решения 1С:СППР\n+ALM - Application Lifecycle Management\n+EAM - Enterprise Architecture Management\nhttps://1c-sppr.ru",
       "Contact": "",
-      "Actual": "2024-07-22T10:20:42.725219+03:00",
+      "Actual": "2024-09-23T09:34:06.4206375+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -3860,9 +3856,9 @@
       "Url": "https://t.me/by_job1C",
       "IsChannel": true,
       "Name": "Вакансии 1С:Беларусь",
-      "Description": "\uD83C\uDDE7\uD83C\uDDFE Канал про работу для специалистов 1С в Республике Беларусь\n\nТолько вакансии доступные для Беларусов. Бесплатная публикация.\n\n\uD83D\uDCAD Разместиться: @Artur_1C",
+      "Description": "\uD83C\uDDE7\uD83C\uDDFE Канал про работу для специалистов 1С в Республике Беларусь\n\nТолько вакансии доступные для Беларусов. Бесплатная публикация.\n\n\uD83D\uDCAD Разместить вакансию на 3 месяца: @Artur_1C",
       "Contact": "",
-      "Actual": "2024-08-03T20:22:16.4176279+03:00",
+      "Actual": "2024-09-23T09:34:12.6333298+03:00",
       "MemberCount": 0,
       "Comment": "",
       "Tags": [
@@ -3870,6 +3866,103 @@
         "Малыши (<500)",
         "Вакансии",
         "Беларусь"
+      ]
+    },
+    {
+      "ID": -1002233374476,
+      "Url": "https://t.me/BitUp_1C_Meetup",
+      "IsChannel": true,
+      "Name": "BitUp — митап по 1С",
+      "Description": "24 сентября эксперты Первого Бита поделятся лучшими практиками в 1С: кейсы разработки и внедрения, лайфхаки использования искусственного интеллекта, методология управления проектами и живое общение.",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:24.0001191+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Франч и аутсорсы"
+      ]
+    },
+    {
+      "ID": -1002111870509,
+      "Url": "https://t.me/powertools1c",
+      "IsChannel": true,
+      "Name": "PowerTools",
+      "Description": "PowerTools - Универсальный инструмент программиста 1C для администрирования конфигураций",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:27.1814375+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Проект"
+      ]
+    },
+    {
+      "ID": -1002133709161,
+      "Url": "https://t.me/yellowpanda1c",
+      "IsChannel": true,
+      "Name": "1С:Панда",
+      "Description": "1с Алматы. Решение сложных и детских задач",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:30.286262+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Проверка знаний",
+        "Региональный"
+      ]
+    },
+    {
+      "ID": -1002189307001,
+      "Url": "https://t.me/moscowclub1C",
+      "IsChannel": true,
+      "Name": "Клуб московских одинэсников",
+      "Description": "Канал клуба московских одинэсников. \nКлуб для общения 1С специалистов, организации вебинаров и оффлайн встреч.\n\nЧат для общения: https://t.me/+o_SbRABvI2xiYjMy",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:33.4154068+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Региональный"
+      ]
+    },
+    {
+      "ID": -1002158995176,
+      "Url": "https://t.me/testy1C",
+      "IsChannel": true,
+      "Name": "1С | Тесты",
+      "Description": "",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:36.5143384+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Канал",
+        "Малыши (<500)",
+        "Проверка знаний"
+      ]
+    },
+    {
+      "ID": -1001923106252,
+      "Url": "https://t.me/rd_1c",
+      "IsChannel": false,
+      "Name": "1С Дагестан",
+      "Description": "Группа для специалистов и начинающих 1С-ников Республики Дагестан. Обмен профессиональным опытом, мнениями, взаимопомощь, объявления и анонсы мероприятий в \"мире 1С\"",
+      "Contact": "",
+      "Actual": "2024-09-23T09:48:39.6643493+03:00",
+      "MemberCount": 0,
+      "Comment": "",
+      "Tags": [
+        "Чат",
+        "Малыши (<500)",
+        "Региональный"
       ]
     }
   ]

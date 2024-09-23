@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/4/800923299.json)](https://openyellow.org/grid?data=top&repo=800923299)
+
 # Реестр 1С в Telegram
 
 Репозиторий реестра всех каналов, чатов и т.д. по теме 1С в Telegram

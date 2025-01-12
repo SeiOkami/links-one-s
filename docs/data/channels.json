@@ -5,6 +5,10 @@
         "Name": "Name",
         "Presentation": "Название"
       },
+       {
+        "Name": "Name",
+        "Presentation": "Ulugbek"
+      },
       {
         "Name": "Url",
         "Presentation": "Адрес"
@@ -39,6 +43,11 @@
     {
       "Name": "Франч и аутсорсы",
       "Description": "Ресурсы франчей, аутсорс и т.п.",
+      "Color": "#eee0da"
+    },
+{
+      "Name": "Uzb",
+      "Description": "Error 1c enterprise kod",
       "Color": "#eee0da"
     },
     {
@@ -312,6 +321,22 @@
       ]
     },
     {
+      "ID": -1001317302063,
+      "Url": "https://t.me/wonderland_1C",
+      "IsChannel": true,
+      "Name": "Зазеркалье 1С",
+      "Description": "Неофициальный канал технологического блога 1С \"Заметки из Зазеркалья\".\n\nНет необходимости следить за сайтом. Все свежие новости Зазеркалья сразу в телеграм.\n\nПо всем вопросам: @SeiOkami",
+      "Contact": "https://t.me/SeiOkami",
+      "Actual": "2024-05-09T00:00:00",
+      "MemberCount": 3,
+      "Comment": "Репосты Зазеркалья",
+      "Tags": [
+        "Канал",
+        "Новости",
+        "Репосты"
+      ]
+    },
+      {
       "ID": -1001317302063,
       "Url": "https://t.me/wonderland_1C",
       "IsChannel": true,

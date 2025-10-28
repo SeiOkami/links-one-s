@@ -4058,5 +4058,20 @@
         "1С:Элемент"
       ]
     }
+    {
+      "ID": 3026103561,
+      "Url": "https://t.me/gitsellru",
+      "IsChannel": true,
+      "Name": "Gitsell - ПО напрямую от разработчиков",
+      "Description": "Платформа для доступа к публичным и продажи приватных репозиториев Github",
+      "Contact": "https://gitsell.ru/",
+      "Actual": "2025-10-28T14:14:23.4257975+03:00",
+      "MemberCount": ,
+      "Comment": "",
+      "Tags": [
+        "Github",
+        "Репозитории"
+      ]
+    }
   ]
 }
